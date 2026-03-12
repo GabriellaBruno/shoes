@@ -76,7 +76,7 @@ public class YouVeGotShoes {
 }//end class
 
 /* 
- * console output:
+ * example console output:
  *
 Enter the manufacturer of the 4th shoe:
 Nike
